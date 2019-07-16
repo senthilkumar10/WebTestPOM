@@ -1,0 +1,90 @@
+2019-07-16 11:31:03 DriverScript [INFO] ****GFK Code Assignment 1****
+2019-07-16 11:31:12 EventHandler [INFO] Navigated to url: http://automationpractice.com/index.php
+2019-07-16 11:31:12 Listner [INFO] Test Case method testCheckOut started
+2019-07-16 11:31:12 EventHandler [INFO] Element found : By.className: login
+2019-07-16 11:31:12 EventHandler [INFO] Element found : By.className: login
+2019-07-16 11:31:12 EventHandler [INFO] Element found : By.className: login
+2019-07-16 11:31:13 EventHandler [INFO] Element found : By.className: login
+2019-07-16 11:31:14 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> class name: login]
+2019-07-16 11:31:15 EventHandler [INFO] Element found : By.id: email
+2019-07-16 11:31:15 EventHandler [INFO] Element found : By.id: email
+2019-07-16 11:31:15 EventHandler [INFO] Entered value : weeks@yahoo.com+ into element [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> id: email]
+2019-07-16 11:31:15 EventHandler [INFO] Element found : By.id: email
+2019-07-16 11:31:16 EventHandler [INFO] Element found : By.id: passwd
+2019-07-16 11:31:16 EventHandler [INFO] Element found : By.id: passwd
+2019-07-16 11:31:16 EventHandler [INFO] Entered value : testpassword+ into element [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> id: passwd]
+2019-07-16 11:31:16 EventHandler [INFO] Element found : By.id: passwd
+2019-07-16 11:31:16 EventHandler [INFO] Element found : By.id: SubmitLogin
+2019-07-16 11:31:16 EventHandler [INFO] Element found : By.id: SubmitLogin
+2019-07-16 11:31:17 EventHandler [INFO] Element found : By.id: SubmitLogin
+2019-07-16 11:31:17 EventHandler [INFO] Element found : By.id: SubmitLogin
+2019-07-16 11:31:18 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> id: SubmitLogin]
+2019-07-16 11:31:19 EventHandler [INFO] Element found : By.xpath: //div[@id='block_top_menu']/ul/li/a[@title='T-shirts']
+2019-07-16 11:31:21 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> xpath: //div[@id='block_top_menu']/ul/li/a[@title='T-shirts']]
+2019-07-16 11:31:22 EventHandler [INFO] Element found : By.xpath: //h5//a[@title='Faded Short Sleeve T-shirts']
+2019-07-16 11:31:23 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> xpath: //h5//a[@title='Faded Short Sleeve T-shirts']]
+2019-07-16 11:31:24 EventHandler [INFO] Element found : By.id: quantity_wanted
+2019-07-16 11:31:24 EventHandler [INFO] Element found : By.id: quantity_wanted
+2019-07-16 11:31:24 EventHandler [INFO] Entered value : 4+ into element [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> id: quantity_wanted]
+2019-07-16 11:31:24 EventHandler [INFO] Element found : By.id: quantity_wanted
+2019-07-16 11:31:24 EventHandler [INFO] Element found : By.id: group_1
+2019-07-16 11:31:24 EventHandler [INFO] Element found : By.id: group_1
+2019-07-16 11:31:24 EventHandler [INFO] Element found : By.id: group_1
+2019-07-16 11:31:24 EventHandler [INFO] Element found : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> id: group_1]
+2019-07-16 11:31:25 EventHandler [INFO] Element found : By.xpath: //a[@name='Orange']
+2019-07-16 11:31:25 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> xpath: //a[@name='Orange']]
+2019-07-16 11:31:26 EventHandler [INFO] Element found : By.xpath: //button[@name='Submit']/span
+2019-07-16 11:31:26 EventHandler [INFO] Element found : By.xpath: //button[@name='Submit']/span
+2019-07-16 11:31:26 EventHandler [INFO] Element found : By.xpath: //button[@name='Submit']/span
+2019-07-16 11:31:26 EventHandler [INFO] Element found : By.xpath: //button[@name='Submit']/span
+2019-07-16 11:31:26 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> xpath: //button[@name='Submit']/span]
+2019-07-16 11:31:26 EventHandler [INFO] Element found : By.xpath: //*[@id='layer_cart']//a[@class and @title='Proceed to checkout']
+2019-07-16 11:31:27 EventHandler [INFO] Element found : By.xpath: //*[@id='layer_cart']//a[@class and @title='Proceed to checkout']
+2019-07-16 11:31:27 EventHandler [INFO] Element found : By.xpath: //*[@id='layer_cart']//a[@class and @title='Proceed to checkout']
+2019-07-16 11:31:27 EventHandler [INFO] Element found : By.xpath: //*[@id='layer_cart']//a[@class and @title='Proceed to checkout']
+2019-07-16 11:31:27 EventHandler [INFO] Element found : By.xpath: //*[@id='layer_cart']//a[@class and @title='Proceed to checkout']
+2019-07-16 11:31:28 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> xpath: //*[@id='layer_cart']//a[@class and @title='Proceed to checkout']]
+2019-07-16 11:31:29 EventHandler [INFO] Element found : By.xpath: //*[contains(@class,'cart_navigation')]/a[@title='Proceed to checkout']
+2019-07-16 11:31:29 EventHandler [INFO] Element found : By.xpath: //*[contains(@class,'cart_navigation')]/a[@title='Proceed to checkout']
+2019-07-16 11:31:29 EventHandler [INFO] Element found : By.xpath: //*[contains(@class,'cart_navigation')]/a[@title='Proceed to checkout']
+2019-07-16 11:31:29 EventHandler [INFO] Element found : By.xpath: //*[contains(@class,'cart_navigation')]/a[@title='Proceed to checkout']
+2019-07-16 11:31:30 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> xpath: //*[contains(@class,'cart_navigation')]/a[@title='Proceed to checkout']]
+2019-07-16 11:31:30 EventHandler [INFO] Element found : By.name: processAddress
+2019-07-16 11:31:31 EventHandler [INFO] Element found : By.name: processAddress
+2019-07-16 11:31:31 EventHandler [INFO] Element found : By.name: processAddress
+2019-07-16 11:31:31 EventHandler [INFO] Element found : By.name: processAddress
+2019-07-16 11:31:32 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> name: processAddress]
+2019-07-16 11:31:32 EventHandler [INFO] Element found : By.id: uniform-cgv
+2019-07-16 11:31:32 EventHandler [INFO] Element found : By.id: uniform-cgv
+2019-07-16 11:31:32 EventHandler [INFO] Element found : By.id: uniform-cgv
+2019-07-16 11:31:32 EventHandler [INFO] Element found : By.id: uniform-cgv
+2019-07-16 11:31:32 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> id: uniform-cgv]
+2019-07-16 11:31:33 EventHandler [INFO] Element found : By.name: processCarrier
+2019-07-16 11:31:33 EventHandler [INFO] Element found : By.name: processCarrier
+2019-07-16 11:31:33 EventHandler [INFO] Element found : By.name: processCarrier
+2019-07-16 11:31:33 EventHandler [INFO] Element found : By.name: processCarrier
+2019-07-16 11:31:34 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> name: processCarrier]
+2019-07-16 11:31:35 EventHandler [INFO] Element found : By.className: bankwire
+2019-07-16 11:31:35 EventHandler [INFO] Element found : By.className: bankwire
+2019-07-16 11:31:35 EventHandler [INFO] Element found : By.className: bankwire
+2019-07-16 11:31:35 EventHandler [INFO] Element found : By.className: bankwire
+2019-07-16 11:31:35 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> class name: bankwire]
+2019-07-16 11:31:36 EventHandler [INFO] Element found : By.xpath: //*[@id='cart_navigation']/button
+2019-07-16 11:31:36 EventHandler [INFO] Element found : By.xpath: //*[@id='cart_navigation']/button
+2019-07-16 11:31:36 EventHandler [INFO] Element found : By.xpath: //*[@id='cart_navigation']/button
+2019-07-16 11:31:36 EventHandler [INFO] Element found : By.xpath: //*[@id='cart_navigation']/button
+2019-07-16 11:31:38 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (df5e1db546026b029dfcc1226adc057c)] -> xpath: //*[@id='cart_navigation']/button]
+2019-07-16 11:31:38 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:31:38 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:31:38 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:31:38 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:31:39 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:31:39 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:31:39 EventHandler [INFO] Element found : By.xpath: //*[@class='cheque-indent']/strong
+2019-07-16 11:31:39 EventHandler [INFO] Element found : By.xpath: //*[@class='cheque-indent']/strong
+2019-07-16 11:31:40 EventHandler [INFO] Element found : By.xpath: //*[@class='cheque-indent']/strong
+2019-07-16 11:31:40 EventHandler [INFO] Element found : By.xpath: //li[@id='step_end' and @class='step_current last']
+2019-07-16 11:31:40 EventHandler [INFO] Element found : By.xpath: //li[@id='step_end' and @class='step_current last']
+2019-07-16 11:31:40 EventHandler [INFO] Element found : By.xpath: //li[@class='step_done step_done_last four']
+2019-07-16 11:31:41 EventHandler [INFO] Element found : By.xpath: //li[@class='step_done step_done_last four']
+2019-07-16 11:31:41 Listner [INFO] Test Case successfully Passed

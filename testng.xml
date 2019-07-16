@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test runner" verbose="3" parallel="tests" thread-count="3">
+
+
+	<listeners>
+		<listener class-name="com.gfk.web_test.Listner.Listner"></listener>
+	</listeners>
+<!--
+	<test name="TC_01_Sign In">
+		<classes>
+			<class name="com.gfk.web_test.testcases.TC_01_Signin" />
+		</classes>
+	</test>  -->
+
+
+	<test name="TC_02_Login">
+		<classes>
+			<class name="com.gfk.web_test.testcases.TC_02_Login" />
+		</classes>
+	</test>  <!-- -->
+
+<!--
+	<test name="TC_03_Checkout">
+		<classes>
+			<class name="com.gfk.web_test.testcases.TC_03_Checkout" />
+		</classes> 
+	</test>   -->
+
+</suite> <!-- Suite -->

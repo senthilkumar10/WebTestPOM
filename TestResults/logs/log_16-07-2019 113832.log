@@ -1,0 +1,36 @@
+2019-07-16 11:38:32 DriverScript [INFO] ****GFK Code Assignment 1****
+2019-07-16 11:38:41 EventHandler [INFO] Navigated to url: http://automationpractice.com/index.php
+2019-07-16 11:38:41 Listner [INFO] Test Case method testLogin started
+2019-07-16 11:38:41 EventHandler [INFO] Element found : By.className: login
+2019-07-16 11:38:41 EventHandler [INFO] Element found : By.className: login
+2019-07-16 11:38:41 EventHandler [INFO] Element found : By.className: login
+2019-07-16 11:38:41 EventHandler [INFO] Element found : By.className: login
+2019-07-16 11:38:43 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (d19086f8ee47b841fc9028fd2b39a5ca)] -> class name: login]
+2019-07-16 11:38:44 EventHandler [INFO] Element found : By.id: email
+2019-07-16 11:38:44 EventHandler [INFO] Element found : By.id: email
+2019-07-16 11:38:44 EventHandler [INFO] Entered value : reagangould@gmail.com+ into element [[ChromeDriver: chrome on XP (d19086f8ee47b841fc9028fd2b39a5ca)] -> id: email]
+2019-07-16 11:38:44 EventHandler [INFO] Element found : By.id: email
+2019-07-16 11:38:44 EventHandler [INFO] Element found : By.id: passwd
+2019-07-16 11:38:44 EventHandler [INFO] Element found : By.id: passwd
+2019-07-16 11:38:45 EventHandler [INFO] Entered value : testpassword+ into element [[ChromeDriver: chrome on XP (d19086f8ee47b841fc9028fd2b39a5ca)] -> id: passwd]
+2019-07-16 11:38:45 EventHandler [INFO] Element found : By.id: passwd
+2019-07-16 11:38:45 EventHandler [INFO] Element found : By.id: SubmitLogin
+2019-07-16 11:38:45 EventHandler [INFO] Element found : By.id: SubmitLogin
+2019-07-16 11:38:45 EventHandler [INFO] Element found : By.id: SubmitLogin
+2019-07-16 11:38:45 EventHandler [INFO] Element found : By.id: SubmitLogin
+2019-07-16 11:38:47 EventHandler [INFO] Clicked on element : [[ChromeDriver: chrome on XP (d19086f8ee47b841fc9028fd2b39a5ca)] -> id: SubmitLogin]
+2019-07-16 11:38:48 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:38:48 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:38:48 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:38:48 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:38:48 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:38:48 EventHandler [INFO] Element found : By.xpath: //h1[@class='page-heading']
+2019-07-16 11:38:49 EventHandler [INFO] Element found : By.className: account
+2019-07-16 11:38:49 EventHandler [INFO] Element found : By.className: account
+2019-07-16 11:38:49 EventHandler [INFO] Element found : By.className: account
+2019-07-16 11:38:49 EventHandler [INFO] Element found : By.className: info-account
+2019-07-16 11:38:50 EventHandler [INFO] Element found : By.className: info-account
+2019-07-16 11:38:50 EventHandler [INFO] Element found : By.className: info-account
+2019-07-16 11:38:50 EventHandler [INFO] Element found : By.className: logout
+2019-07-16 11:38:50 EventHandler [INFO] Element found : By.className: logout
+2019-07-16 11:38:50 Listner [INFO] Test Case successfully Passed
