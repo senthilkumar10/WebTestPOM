@@ -6,12 +6,12 @@
 	<listeners>
 		<listener class-name="com.gfk.web_test.Listner.Listner"></listener>
 	</listeners>
-<!--
+
 	<test name="TC_01_Sign In">
 		<classes>
 			<class name="com.gfk.web_test.testcases.TC_01_Signin" />
 		</classes>
-	</test>  -->
+	</test> <!-- -->
 
 
 	<test name="TC_02_Login">
@@ -20,11 +20,11 @@
 		</classes>
 	</test>  <!-- -->
 
-<!--
+
 	<test name="TC_03_Checkout">
 		<classes>
 			<class name="com.gfk.web_test.testcases.TC_03_Checkout" />
 		</classes> 
-	</test>   -->
+	</test> <!--  -->
 
 </suite> <!-- Suite -->
